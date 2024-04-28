@@ -1,6 +1,12 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Technologies Used
+
+- **React**: A JavaScript library for building user interfaces.
+- **Ant Design**: A UI design language and React UI library.
+- **Axios**: A promise-based HTTP client for the browser and node.js.
+- **React Router**: A standard library for routing in React.
+- **Redux/Context API**: (if used) State management tools.
 
 ## Available Scripts
 
